@@ -1,0 +1,6 @@
+[
+  "constructor(uint256)",
+  "function add(uint256)",
+  "function count()",
+  "function counter() view returns (uint256)"
+]
